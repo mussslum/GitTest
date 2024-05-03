@@ -1,10 +1,9 @@
 Hello
+
 (M modeller)
 M3
 M5
-<<<<<<< Updated upstream
-(X modeller)
-=======
 
+(X modeller)
 X6
->>>>>>> Stashed changes
+
